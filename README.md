@@ -66,14 +66,13 @@ cd resume_screener
 python screener.py
 ```
 
----
-
 ## 💼 Built With Love By:
 
 **Henna Taneja**  
-`QA Engineer | Python Automation | Learning Generative AI`   
-🌐 [LinkedIn](www.linkedin.com/in/henna-taneja)  
-📂 [GitHub Portfolio](https://github.com/henna0813)
+`QA Engineer | Python Automation | Learning Generative AI`  
+🌐 [LinkedIn](https://www.linkedin.com/in/henna-taneja/)  
+📂 [GitHub Portfolio](https://github.com/Henna0813)
+
 ---
 
 ## ⭐️ Want to Contribute?
