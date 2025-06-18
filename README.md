@@ -72,8 +72,8 @@ python screener.py
 
 **Henna Taneja**  
 `QA Engineer | Python Automation | Learning Generative AI`   
-📂 [GitHub Portfolio](https://github.com/Henna0813)
-
+🌐 [LinkedIn](www.linkedin.com/in/henna-taneja)  
+📂 [GitHub Portfolio](https://github.com/henna0813)
 ---
 
 ## ⭐️ Want to Contribute?
