@@ -1,0 +1,7 @@
+Name: Henna Taneja
+Email: henna@example.com
+Phone: +91-9876543210
+Experience: 6 years in QA Automation
+Skills: Python, Selenium, Pytest, API Testing, JIRA, SQL
+Education: B.Tech in Computer Science
+Certifications: ISTQB, Agile Testing

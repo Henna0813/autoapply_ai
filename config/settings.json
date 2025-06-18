@@ -1,0 +1,9 @@
+{
+  "job_portal_url": "https://www.naukri.com/",
+  "resume_folder": "resumes/",
+  "template_folder": "templates/",
+  "job_output_file": "jobs/scraped_jobs.json",
+  "browser": "chrome",
+  "headless": false
+}
+

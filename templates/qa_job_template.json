@@ -1,0 +1,16 @@
+{
+  "role": "Senior QA Engineer",
+  "required_skills": [
+    "Python",
+    "Selenium",
+    "Pytest",
+    "API Testing",
+    "SQL",
+    "Test Planning",
+    "Bug Reporting",
+    "Agile"
+  ],
+  "min_experience": 5,
+  "education": "B.Tech"
+}
+
