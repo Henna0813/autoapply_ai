@@ -68,24 +68,11 @@ python screener.py
 
 ---
 
-## 🧠 Interview-Ready Skills Demonstrated
-
-- File parsing (txt, pdf)
-- Regex for pattern matching
-- Web scraping & automation with Selenium
-- JSON handling
-- Pytest for test validation
-- Project structure & modular coding
-- Git + GitHub version control
-
----
-
 ## 💼 Built With Love By:
 
 **Henna Taneja**  
-`QA Engineer | Python Automation | Learning Generative AI`  
-🌐 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-📂 [GitHub Portfolio](https://github.com/YOUR_USERNAME)
+`QA Engineer | Python Automation | Learning Generative AI`   
+📂 [GitHub Portfolio](https://github.com/Henna0813)
 
 ---
 
